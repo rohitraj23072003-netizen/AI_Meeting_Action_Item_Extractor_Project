@@ -1,0 +1,3 @@
+{"transcript_id": "demo-1", "text": "Rahul will update the Q3 sales dashboard by Thursday.", "action": {"task": "Update the Q3 sales dashboard", "person": "Rahul", "date": "Thursday", "status": "assigned", "confidence": 0.98}}
+{"transcript_id": "demo-1", "text": "Neha will send the latest customer list to Rahul tomorrow.", "action": {"task": "Send the latest customer list to Rahul", "person": "Neha", "date": "tomorrow", "status": "assigned", "confidence": 0.97}}
+{"transcript_id": "demo-1", "text": "Rahul should review the duplicate accounts before the dashboard is finalized.", "action": {"task": "Review duplicate accounts", "person": "Rahul", "date": "before dashboard is finalized", "status": "assigned", "confidence": 0.95}}

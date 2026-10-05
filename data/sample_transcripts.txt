@@ -1,0 +1,5 @@
+[10:00] Priya: We need the Q3 sales dashboard updated before Friday. Rahul, can you own that?
+[10:02] Rahul: Yes, I will update the dashboard by Thursday.
+[10:04] Neha: I will send the latest customer list to Rahul tomorrow.
+[10:05] Priya: Great. Rahul should also review the duplicate accounts before the dashboard is finalized.
+[10:07] Rahul: I can do the review by Friday.
